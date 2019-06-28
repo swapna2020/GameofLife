@@ -1,0 +1,24 @@
+Game of Life Algorithm
+
+1.	Declare the Grid boundaries
+2.	Set up the initial values for the Grid
+3.	Display the Grid with values
+4.	Apply the game rules to every cell
+5.	Loop through every cell
+6.	Check the neighbours, if they are alive
+7.	If(cell alive , <2 or >3 neighbours) then cell dies
+8.	If(cell = 2 or 3 neighbours) then cell stays
+9.	If(cell has 3 neighbours) then it re-borns
+10.	Display new Grid
+
+
+Plan to do in C#
+
+1.	Create a game board whth random values/user input
+2.	Assign boolean value to each cell
+3.	Depending on true or false, fill each cell with a specific character for true else blank
+4.	Take cursor to the beginning of the board and apply game rules
+5.	Check for the Live Neighbours 
+6. 	Show the simulation 
+
+
